@@ -4,8 +4,12 @@
 
 |key|value|
 |---|-----|
-|Name|五十嵐　正雄（いがらし　まさお）|
+|名前|五十嵐　正雄（いがらし　まさお）|
+|住所|石川県金沢市|
 |Twitter|[@msoigrs](https://twitter.com/msoigrs)|
+|Qiita|[masarashi](https://qiita.com/masarashi)|
+|ポートフォリオサイト|[Buddhagram](https://buddhagram.work/)|
+|GitHubリポジトリ|[buddhagram](https://github.com/masarashi/buddhagram)|
 
 ## スキル
 ### 言語
