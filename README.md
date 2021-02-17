@@ -8,8 +8,7 @@
 |住所|石川県金沢市|
 |Twitter|[@msoigrs](https://twitter.com/msoigrs)|
 |Qiita|[masarashi](https://qiita.com/masarashi)|
-|ポートフォリオサイト|[Buddhagram](https://buddhagram.work/)|
-|GitHubリポジトリ|[buddhagram](https://github.com/masarashi/buddhagram)|
+|ポートフォリオサイト|[Buddhagram](https://buddhagram.work/) / [GitHubリポジトリ](https://github.com/masarashi/buddhagram)|
 
 ## スキル
 ### 言語
