@@ -6,7 +6,6 @@
 |---|-----|
 |Twitter|[@msoigrs](https://twitter.com/msoigrs)|
 |Qiita|[masarashi](https://qiita.com/masarashi)|
-|LAPRAS|[masarashi](https://lapras.com/public/F4OUOIH)|
 |ポートフォリオサイト|[Buddhagram](https://buddhagram.work/) / [GitHubリポジトリ](https://github.com/masarashi/buddhagram)|
 
 ## スキル
